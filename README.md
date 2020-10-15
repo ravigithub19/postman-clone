@@ -1,5 +1,5 @@
 ## View Live
-> Postman - https://ravigithub19.github.io/MagicNotes/
+> Postman - https://ravigithub19.github.io/postmanClone/
 
 ## About
 > Postman is currently one of the most popular tool for testing API's. I have worked on simple UI with the help of Bootstrap and made it interactive with the use of JavaScript to give an actual feel like Postman software.
